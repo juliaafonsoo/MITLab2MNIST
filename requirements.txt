@@ -1,0 +1,11 @@
+tensorflow
+comet_ml 
+ipython
+mitdeeplearning
+matplotlib
+numpy
+random2
+opencv-python
+pandas
+plotly
+kaleido
